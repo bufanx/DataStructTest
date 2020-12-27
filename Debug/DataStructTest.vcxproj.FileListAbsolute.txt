@@ -1,0 +1,2 @@
+C:\Users\bufanx\source\repos\DataStructTest\Debug\DataStructTest.exe
+C:\Users\bufanx\source\repos\DataStructTest\Debug\DataStructTest.pdb
